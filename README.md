@@ -6,4 +6,6 @@ We tried importing and using differents assets to have a nice looking game
 
 the game is small but we recommend using different weapon and magic to beat the game in different ways
 
-we also recomend downloading  the different libraries to run the game like pygame 
+we also recomend downloading  the different libraries to run the game like pygame and open-cv python.
+to run the game open the code folder in your IDE and run main-game.py file.
+
