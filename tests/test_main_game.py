@@ -1,8 +1,6 @@
 # tests/test_main_game.py
 
 import pytest
-import sys
-from io import StringIO
 
 # Supposons que vous ayez une fonction main() dans main-game.py qui lance le jeu.
 # Nous allons tester si cette fonction peut être appelée sans erreur.
