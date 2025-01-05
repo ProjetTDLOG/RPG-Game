@@ -1,5 +1,5 @@
 [flake8]
-ignore = E501, W292, W191, E231, F403, F405, E241, E701, E261, E122, E252, E302, w391, E303, E262, E401, E302, E251, E261, E262, E701, E122, W391, E303, E225, E712, E741, E221, E203, E125
+ignore = E501, W292, W191, E231, F403, F405, E241, E701, E261, E122, E252, E302, W391, E303, E262, E401, E251, E225, E712, E741, E221, E203, E125
 max-line-length = 120
 exclude = .venv,venv,__pycache__,.git,build,dist
 select = E, W, F
